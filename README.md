@@ -1,5 +1,4 @@
-# TaTeTi-con-Inteligencia-Artificial
+# TicTacToe using AI
 
-La inteligencia Artificial utiliza un arbol de desición con el algoritmo de busqueda adversaria utilizando podas alfa-beta.
-
-El proyecto fue realizado en CodeBlocks utilizando el lenguaje C
+The AI uses a decision tree with the adversary search algorithm and alpha-beta pruning
+This proyect was coded using CodeBlocks in C language
