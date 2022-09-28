@@ -1,0 +1,278 @@
+# depslib dependency file v1.0
+1569549646 source:e:\proyecto odc\tateti\main\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1574362602 
+
+1569556474 source:e:\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569549874 e:\proyecto odc\tateti\arbol.h
+	"lista.h"
+
+1568407486 e:\proyecto odc\tateti\lista.h
+
+1569554616 source:e:\proyecto odc\tateti\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569549646 source:e:\proyecto odc\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1569891904 source:e:\proyecto odc\tateti\tester.c
+	"lista.h"
+	"Arbol.h"
+	"Arbol.c"
+	<stdio.h>
+	<stdlib.h>
+
+1569556474 e:\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574391356 source:e:\todo\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569549874 e:\todo\proyecto odc\tateti\arbol.h
+	"lista.h"
+
+1568407486 e:\todo\proyecto odc\tateti\lista.h
+
+1574391166 source:e:\todo\proyecto odc\tateti\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574366662 source:e:\todo\proyecto odc\tateti\tester.c
+	"lista.c"
+	"Arbol.c"
+	<stdio.h>
+	<stdlib.h>
+
+1574391356 e:\todo\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574391166 e:\todo\proyecto odc\tateti\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574391300 source:e:\todo\proyecto odc\tateti\ia.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+
+1571404714 e:\todo\proyecto odc\tateti\ia.h
+	"arbol.h"
+	"partida.h"
+
+1574366662 "
+
+1572575098 e:\todo\proyecto odc\tateti\partida.h
+
+1574391302 source:e:\todo\proyecto odc\tateti\partida.c
+	"partida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574366662 source:e:\todo\proyecto odc\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+	"partida.h"
+
+1574380556 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569539074 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.h
+	"lista.h"
+
+1568396686 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.h
+
+1574380501 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/ia.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+
+1571393914 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/ia.h
+	"arbol.h"
+	"partida.h"
+
+1572564298 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/partida.h
+
+1574380366 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574355862 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+	"partida.h"
+
+1574380502 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/partida.c
+	"partida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574355862 source:/media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/TESTER.C
+	"lista.c"
+	"Arbol.c"
+	<stdio.h>
+	<stdlib.h>
+
+1574380366 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574380556 /media/user/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574380556 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569539074 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.h
+	"lista.h"
+
+1568396686 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.h
+
+1574380500 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/ia.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+
+1571393914 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/ia.h
+	"arbol.h"
+	"partida.h"
+
+1572564298 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/partida.h
+
+1574380366 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574355862 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+	"partida.h"
+
+1574380502 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/partida.c
+	"partida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574355862 source:/media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/TESTER.C
+	"lista.c"
+	"Arbol.c"
+	<stdio.h>
+	<stdlib.h>
+
+1574380366 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574380556 /media/yosoynax/STORE N GO/todo/Proyecto OdC/TaTeTi/Arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574391356 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1569549874 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\arbol.h
+	"lista.h"
+
+1568407486 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\lista.h
+
+1574408492 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\ia.c
+	<stdlib.h>
+	<stdio.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+
+1571404714 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\ia.h
+	"arbol.h"
+	"partida.h"
+
+1572575098 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\partida.h
+
+1574391166 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1583088046 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"arbol.h"
+	"ia.h"
+	"partida.h"
+
+1574391302 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\partida.c
+	"partida.h"
+	<stdio.h>
+	<stdlib.h>
+
+1583088046 source:c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\tester.c
+	"lista.c"
+	"Arbol.c"
+	<stdio.h>
+	<stdlib.h>
+
+1574391166 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\lista.c
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
+1574391356 c:\users\rnh\desktop\material universitario\segundo cuatrimestre segundo año\organizacion de computadoras\proyecto odc\tateti\arbol.c
+	"Arbol.h"
+	"lista.h"
+	<stdio.h>
+	<stdlib.h>
+
